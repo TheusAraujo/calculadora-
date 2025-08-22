@@ -1,10 +1,10 @@
-# 📊 Calculadora Simples
+# Calculadora Simples
 
 Uma calculadora feita em **JavaScript** para treinar lógica de programação e manipulação do DOM.
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 Criar uma aplicação simples que permite realizar operações matemáticas básicas:  
 - Soma  
 - Subtração  
@@ -15,20 +15,20 @@ O projeto serve para praticar **interatividade em páginas web** e **funções e
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 - HTML5  
 - CSS3  
 - JavaScript  
 
 ---
 
-## 🚀 Como executar
+## Como executar
 1. Abra o arquivo `index.html` no navegador.  
 2. Use a calculadora normalmente.
 
 ---
 
-## 📚 O que aprendi
+##  O que aprendi
 - Manipular elementos do DOM com JavaScript.  
 - Criar funções reutilizáveis para operações matemáticas.  
 - Organizar arquivos HTML, CSS e JS de forma clara.  
